@@ -1,0 +1,26 @@
+# url expects https:// or // before the fqdn
+#############################################
+https://www.linkedin.com #comment
+http://www.xbox.com/en-GB/
+http://www.gartner.com/technology/home.jsp
+https://www.python.org/
+https://www.facebook.com/
+https://twitter.com/
+https://www.youtube.com/
+https://wordpress.org/
+https://www.wikipedia.org/
+https://www.pinterest.com/
+https://wordpress.com/
+https://www.instagram.com/
+https://www.tumblr.com/
+https://www.amazon.com
+https://www.yahoo.com/
+http://www.microsoft.com/
+https://github.com/
+https://www.ibm.com/us-en/
+http://www.oracle.com/index.html
+http://www.skype.com/en/
+https://www.xing.com/
+http://www.debian.org/
+http://www.samsung.com/
+http://stackoverflow.com/
